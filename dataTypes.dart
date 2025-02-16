@@ -16,4 +16,5 @@ void main() {
 
   // Booleans
   bool myBool = true;
+  print("bool: $myBool");
 }
